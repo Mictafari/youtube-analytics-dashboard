@@ -32,5 +32,8 @@ YouTube Studio provides raw CSV exports, but they are scattered across multiple 
 - Monthly Trend** - Line chart showing views and watch time month-over-month
 - Top 10 Videos** - Bar chart of highest-performing videos by views
 - Impressions & CTR** - Dual-axis analysis of reach and click-through rate
-- Slicers** - Interactive filters for year and month selection 
+- Slicers** - Interactive filters for year and month selection
+
+- <img width="1919" height="1077" alt="dashboard 1" src="https://github.com/user-attachments/assets/be390818-fbb0-4452-b6b8-4f077f488cae" />
+
 
